@@ -1,4 +1,4 @@
-escript developed with the function of logging in and automatically commenting on a single post on Instagram
+script developed with the function of logging in and automatically commenting on a single post on Instagram
 ------------------------------------------------------------------------------------------------------------
 important parameters(
   libraries: selenium, time, random;
