@@ -68,5 +68,3 @@ Automates the process of navigating to a specific Instagram post and posting com
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 --- 
-
-This format follows the common structure found in GitHub README files for easy understanding and use by developers.
