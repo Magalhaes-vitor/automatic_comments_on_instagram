@@ -1,5 +1,3 @@
-documentation for your Instagram bot script:
-
 ---
 
 # InstagramBot
